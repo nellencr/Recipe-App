@@ -1,3 +1,6 @@
+# RECIPE APP
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
@@ -12,9 +15,6 @@ It is the frontend react-app that allow the user to search for Recipes online. T
 - Jsx
 
 
-## screenshoot
-
-![](src/images/screen1.png)  ![](src/images/screen2.png)
 
 
 ## Live Demo
